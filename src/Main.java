@@ -1,10 +1,10 @@
 public class Main {
 
-    private Solution solution;
+    private static Solution solution;
 
     public static void main(String[] args) {
 
-        System.out.println("Hello World!");
+        System.out.println();
 
     }
 
